@@ -8,7 +8,7 @@ Game Bidding Website<br>
 I developed a fully functional website where users can create an account and log in. The site allows users to bid on games, with sellers having the option to accept or reject offers. Once an offer is accepted, the game is sold to the user who placed the bid. Buyers can search for games using a search bar, and sellers can edit game listings, providing a seamless experience for both buyers and sellers.
 
 Goals and Objectives<br>
-Short-Term Goals: Enhance my skills in web development and cybersecurity by working on more complex projects and gaining practical experience.
+Short-Term Goals: Enhance my skills in web development and cybersecurity by working on more complex projects and gaining practical experience.<br>
 Long-Term Objectives: Build a career in cybersecurity, focusing on securing large-scale systems and networks while continuously learning and adapting to new challenges in the field.
 
 <!--
