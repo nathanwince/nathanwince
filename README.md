@@ -1,6 +1,6 @@
 
 ## About Me
-I'm a 21-year-old computer science student majoring in cybersecurity at the University of North Carolina at Charlotte. My interest for this career arose through video games when I was a child, and ever since then I have been passionate about securing systems and building new projects. I enjoy turning complex issues into simple, user-friendly solutions, and I also enjoy learning something new that constantly challenges me, allowing me to grow.
+**🎓 I'm a 21-year-old computer science student majoring in cybersecurity at the University of North Carolina at Charlotte. My interest for this career arose through video games when I was a child, and ever since then I have been passionate about securing systems and building new projects. I enjoy turning complex issues into simple, user-friendly solutions, and I also enjoy learning something new that constantly challenges me, allowing me to grow.
 
 ## Projects
 ### 🎮 Game Bidding Website
