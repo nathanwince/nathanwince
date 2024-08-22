@@ -9,8 +9,8 @@ I developed a fully functional website where users can create an account and log
 
 ## Goals and Objectives
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-- 🔧 Short-Term Goals: Enhance my skills in web development and cybersecurity by working on more complex projects and gaining practical experience.<br>
-- 🚀 Long-Term Objectives: Build a career in cybersecurity, focusing on securing large-scale systems and networks while continuously learning and adapting to new challenges in the field.
+- 🔧 **Short-Term Goals**: Enhance my skills in web development and cybersecurity by working on more complex projects and gaining practical experience.<br>
+- 🚀 **Long-Term Objectives**: Build a career in cybersecurity, focusing on securing large-scale systems and networks while continuously learning and adapting to new challenges in the field.
 
 <!--
 **nathanwince/nathanwince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
